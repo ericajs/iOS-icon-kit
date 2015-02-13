@@ -1,4 +1,4 @@
-Latest update **February 8, 2015 · 3 revisions**
+Latest update **February 12, 2015 · 4 revisions**
 # iOS Icon Kit
 
 iOS 7 &amp; 8  Icons: Natives and Basics
@@ -8,13 +8,11 @@ iOS 7 &amp; 8  Icons: Natives and Basics
 
 * All icons are vectorized and editable
 * Sketch 3 or later is required for best results
-* Non-commercial production: the suggested use for all vector graphics is for personal or internal purposes, to practice technique, and help form and shape ideas and concepts
-
+* Non-commercial
 
 *NOTE: if you are using an earlier version of Sketch, shapes may not render correctly*
 
-
-##Enjoy!
+Enjoy!
 
 
 ![alt text](/iOS-icon-kit.png "Logo Title Text 1")
