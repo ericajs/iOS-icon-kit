@@ -1,4 +1,4 @@
-Latest update **February 12, 2015 · 4 revisions**
+Latest update **February 18, 2015 · 5 revisions**
 # iOS Icon Kit
 
 iOS 7 &amp; 8  Icons: Natives and Basics
