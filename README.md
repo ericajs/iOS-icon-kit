@@ -1,4 +1,4 @@
-Latest update **February 18, 2015 · 5 revisions**
+Latest update **February 19, 2015 · 5 revisions**
 # iOS Icon Kit
 
 iOS 7 &amp; 8  Icons: Natives and Basics
@@ -6,7 +6,7 @@ iOS 7 &amp; 8  Icons: Natives and Basics
 
 ##Tips:
 
-* All icons are vectorized and editable
+* All icons are vectorized (svg) and editable
 * Sketch 3 or later is required for best results
 * Non-commercial
 
